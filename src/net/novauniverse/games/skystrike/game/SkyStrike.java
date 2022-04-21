@@ -7,8 +7,6 @@ import org.bukkit.World.Environment;
 import org.bukkit.entity.LivingEntity;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.Plugin;
-import org.bukkit.scheduler.BukkitRunnable;
-
 import net.novauniverse.games.skystrike.NovaSkyStrike;
 import net.novauniverse.games.skystrike.game.skygrid.SkygridGenerator;
 import net.zeeraa.novacore.commons.log.Log;
