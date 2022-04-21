@@ -1,0 +1,6 @@
+name: NovaSkyStrike
+main: net.novauniverse.games.skystrike.NovaSkyStrike
+description: Novauniverse SkyStrike
+version: 1.0
+depend: [NovaCore, NovaCoreGameEngine, SimpleVoidGen]
+softdepend: [NovaGamesTarget]
