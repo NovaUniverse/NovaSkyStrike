@@ -28,7 +28,6 @@ public class SkyStrikeMaterials {
 		GROUND_MATERIALS.add(Material.GRASS);
 		GROUND_MATERIALS.add(Material.IRON_ORE);
 		GROUND_MATERIALS.add(Material.LAPIS_ORE);
-		GROUND_MATERIALS.add(Material.LEAVES);
 		GROUND_MATERIALS.add(Material.LOG);
 		GROUND_MATERIALS.add(Material.MELON_BLOCK);
 		GROUND_MATERIALS.add(Material.MOSSY_COBBLESTONE);
